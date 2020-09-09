@@ -1,5 +1,5 @@
 -- =============================================
--- Author:		Hernan Santesteban
+-- Author:	Hernan Santesteban
 -- Create date: 27/08/2020
 -- Description:	Liquidación de Salarios
 -- =============================================
