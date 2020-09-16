@@ -24,15 +24,17 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 - 1.8: ¿Qué alumnos integran los cursos 3 y 4?
 - 1.9: ¿Qué antiguedad tienen en la institución los alumnos del curso 4?
 - 1.10: ¿Cuáles son las edades de cada uno de ellos?
-- 1.11: Dividir a los alumnos en al menos cuatro grupos de antiguedad
-- 1.12: ¿Cuál es el promedio de edad por curso?
-- 1.13: ¿Cuál es el promedio de edad general?
-- 1.14: ¿A qué curso pertenecen?
-- 1.15: ¿Cuánto pagan por mes para asistir?
-- 1.16: ¿Cuáles son las materias en las que tienen mejores puntajes?
-- 1.17: ¿Cuál es el puntaje promedio?
-- 1.18: ¿Cuál es el puntaje promedio por materia?
-- 1.19: ¿Quién es el alumno de mejor puntaje?
+- 1.11: ¿Cuál es el promedio de edad por curso?
+- 1.12: ¿Cuál es el promedio de edad general?
+- 1.13: ¿Cuál es el mínimo de la antiguedad?
+- 1.14: ¿Cuál es el máximo de la antiguedad?
+- 1.15: Dividir a los alumnos en cuatro grupos de antiguedad
+- 1.16: ¿A qué curso pertenece cada uno?
+- 1.17: ¿Cuánto pagan por mes para asistir?
+- 1.18: ¿Cuáles son las materias en las que tienen mejores puntajes?
+- 1.19: ¿Cuál es el puntaje promedio?
+- 1.20: ¿Cuál es el puntaje promedio por materia?
+- 1.21: ¿Quién es el alumno de mejor puntaje?
 
 ##### 2. Consultas sobre los docentes
 
