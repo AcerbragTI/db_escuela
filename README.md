@@ -31,10 +31,10 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 - 1.15: Dividir a los alumnos en cuatro grupos de antiguedad
 - 1.16: ¿A qué curso pertenece cada uno?
 - 1.17: ¿Cuánto pagan por mes para asistir?
-- 1.18: ¿Cuáles son las materias en las que tienen mejores puntajes?
+- 1.18: ¿Cuáles son las 5 materias en las que tienen mejores puntajes?
 - 1.19: ¿Cuál es el puntaje promedio?
 - 1.20: ¿Cuál es el puntaje promedio por materia?
-- 1.21: ¿Quién es el alumno de mejor puntaje?
+- 1.21: ¿Quién es el alumno con el mejor puntaje?
 
 ##### 2. Consultas sobre los docentes
 
@@ -45,18 +45,15 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 - 2.4: ¿Qué profesor tiene el CUIL 38773459?
 - 2.5: ¿Qué profesores tienen el apto físico incompleto?
 - 2.6: ¿Qué profesores cobran entre 300$ y 400$ la hora?
-- 2.7: ¿Qué profesores tienen un nombre que comienza con la letra ‘A’ o un salario superior a 400$ la hora?
-- 2.8: ¿Qué antigüedad tienen en la institución?
-- 2.9: ¿Cuáles son las edades de cada uno de ellos?
-- 2.10: ¿Cuál es el promedio de antigüedad?
-- 2.11: ¿Cuál es el promedio de edad?
-- 2.12: ¿De dónde son?
-- 2.13: ¿Cuál es el promedio de edad?
-- 2.14: ¿Cuál es su método de compensación?
-- 2.15: ¿Qué materias dictan?
-- 2.16: ¿De qué cursos participan?
-- 2.17: ¿Cuál es el puntaje promedio de los alumnos de cada uno?
-- 2.18: ¿Quiénes tienen a los alumnos de mejor puntaje?
+- 2.7: ¿Qué profesores tienen un nombre que comienza con la letra ‘A’ o una tarifa superior a 400$ la hora?
+- 2.8: ¿Cuáles son las edades de cada uno de ellos?
+- 2.9: ¿Cuál es el promedio de edad?
+- 2.10: ¿De dónde son?
+- 2.11: ¿Cuál es la cantidad de docentes y su promedio de edad por país?
+- 2.12: ¿Qué materias dictan?
+- 2.13: ¿De qué cursos participan?
+- 2.14: ¿Cuál es el puntaje promedio de los alumnos de cada uno?
+- 2.15: ¿Cuál es el puntaje promedio de los alumnos por materia y por profesor?
 
 ##### 3. Consultas sobre los cursos
 
@@ -67,7 +64,6 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 
 ##### 4. Sobre las finanzas de la institución
 
-- 4.0: ¿Cuál es el ingreso mensual de la institución por curso?
+- 4.0: ¿Cuál es el ingreso mensual de la institución por curso considerando la cantidad de alumnos?
 - 4.1: ¿Cuál es el egreso por remuneraciones de la institución?
-- 4.2: ¿Cuál es el curso más rentable?
-- 4.3: ¿Es rentable la institución?
+- 4.2: ¿Es rentable la institución?

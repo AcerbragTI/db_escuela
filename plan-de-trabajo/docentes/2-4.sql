@@ -1,0 +1,4 @@
+-- ¿Qué profesor tiene el CUIL 38773459?
+SELECT *
+  FROM DOCENTE
+ WHERE CUIL = 38773459;

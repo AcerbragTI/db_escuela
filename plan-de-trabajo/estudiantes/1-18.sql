@@ -1,0 +1,8 @@
+-- cuáles son las 5 materias en las que tienen mejores puntajes
+SELECT TOP 5
+       M.NOMBRE_MATERIA,
+       AVG(N.NOTA) as PROMEDIO
+  FROM NOTA N
+ INNER JOIN MATERIA M ON N.CODIGO_MATERIA = M.CODIGO_MATERIA
+ GROUP BY M.NOMBRE_MATERIA
+ ORDER BY PROMEDIO DESC;
