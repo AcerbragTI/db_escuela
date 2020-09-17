@@ -29,12 +29,12 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 - 1.13: ¿Cuál es el mínimo de la antiguedad?
 - 1.14: ¿Cuál es el máximo de la antiguedad?
 - 1.15: Dividir a los alumnos en cuatro grupos de antiguedad
-- 1.16: ¿A qué curso pertenece cada uno?
-- 1.17: ¿Cuánto pagan por mes para asistir?
-- 1.18: ¿Cuáles son las 5 materias en las que tienen mejores puntajes?
+- 1.16: ¿A qué curso pertenece cada uno? 🔗
+- 1.17: ¿Cuánto pagan por mes para asistir? 🔗
+- 1.18: ¿Cuáles son las 5 materias en las que tienen mejores puntajes? 🔗
 - 1.19: ¿Cuál es el puntaje promedio?
-- 1.20: ¿Cuál es el puntaje promedio por materia?
-- 1.21: ¿Quién es el alumno con el mejor puntaje?
+- 1.20: ¿Cuál es el puntaje promedio por materia? 🔗
+- 1.21: ¿Quién es el alumno con el mejor puntaje? 🔗
 
 ##### 2. Consultas sobre los docentes
 
@@ -48,19 +48,19 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 - 2.7: ¿Qué profesores tienen un nombre que comienza con la letra ‘A’ o una tarifa superior a 400$ la hora?
 - 2.8: ¿Cuáles son las edades de cada uno de ellos?
 - 2.9: ¿Cuál es el promedio de edad?
-- 2.10: ¿De dónde son?
-- 2.11: ¿Cuál es la cantidad de docentes y su promedio de edad por país?
-- 2.12: ¿Qué materias dictan?
-- 2.13: ¿De qué cursos participan?
-- 2.14: ¿Cuál es el puntaje promedio de los alumnos de cada uno?
-- 2.15: ¿Cuál es el puntaje promedio de los alumnos por materia y por profesor?
+- 2.10: ¿De dónde son? 🔗
+- 2.11: ¿Cuál es la cantidad de docentes y su promedio de edad por país? 🔗
+- 2.12: ¿Qué materias dictan? 🔗
+- 2.13: ¿De qué cursos participan? 🔗
+- 2.14: ¿Cuál es el puntaje promedio de los alumnos de cada uno? 🔗
+- 2.15: ¿Cuál es el puntaje promedio de los alumnos por materia y por profesor? 🔗
 
 ##### 3. Consultas sobre los cursos
 
-- 3.0: ¿Cuál es el contenido de cada curso? ⭐️
-- 3.1: ¿Cómo está organizado el dictado de las materias? ⭐️
-- 3.2: ¿Qué alumnos participan de cada curso? ⭐️
-- 3.3: ¿Qué profesores dictan las materias de cada curso? ⭐️
+- 3.0: ¿Cuál es el contenido de cada curso? ⭐️⭐️
+- 3.1: ¿Cómo está organizado el dictado de las materias? ⭐️⭐️
+- 3.2: ¿Qué alumnos participan de cada curso? ⭐️⭐️
+- 3.3: ¿Qué profesores dictan las materias de cada curso? ⭐️⭐️
 
 ##### 4. Sobre las finanzas de la institución
 
