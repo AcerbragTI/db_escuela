@@ -57,13 +57,13 @@ A continuación se detalla el plan de trabajo acordado por el equipo de auditore
 
 ##### 3. Consultas sobre los cursos
 
-- 3.0: ¿Cuál es el contenido de cada curso?
-- 3.1: ¿Cómo está organizado el dictado de las materias?
-- 3.2: ¿Qué alumnos participan de cada curso?
-- 3.3: ¿Qué profesores dictan las materias de cada curso?
+- 3.0: ¿Cuál es el contenido de cada curso? ⭐️
+- 3.1: ¿Cómo está organizado el dictado de las materias? ⭐️
+- 3.2: ¿Qué alumnos participan de cada curso? ⭐️
+- 3.3: ¿Qué profesores dictan las materias de cada curso? ⭐️
 
 ##### 4. Sobre las finanzas de la institución
 
-- 4.0: ¿Cuál es el ingreso mensual de la institución por curso considerando la cantidad de alumnos?
-- 4.1: ¿Cuál es el egreso por remuneraciones de la institución?
-- 4.2: ¿Es rentable la institución?
+- 4.0: ¿Cuál es el ingreso mensual de la institución por curso considerando la cantidad de alumnos? 🚀🔥
+- 4.1: ¿Cuál es el egreso por remuneraciones de la institución? 🚀🔥
+- 4.2: ¿Es rentable la institución? 🚀🔥
